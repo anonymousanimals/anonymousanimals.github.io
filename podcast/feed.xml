@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Anonymous Animals</title>
+    <link>https://www.apple.com/itunes/podcasts/</link>
+    <language>en-us</language>
+    <copyright>&#169; 2020 Anonymous Animals</copyright>
+    <itunes:author>Anonymous Animals</itunes:author>
+    <description>
+      a weekly podcast that explores just how complicated we human beings are through conversation about design, career paths, and other people things. anonymously.
+    </description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Anonymous Animals</itunes:name>
+      <itunes:email>info@anonymousanimals.pages</itunes:email>
+    </itunes:owner>
+    <itunes:image
+      href="https://anonymousanimals.pages/podcast/art.jpg"
+    />
+    <itunes:category text="Art">
+      <itunes:category text="Design"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+
+    <item>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>An audio file into the void </itunes:title>
+      <description>
+          testing out this podcast hosting thing
+        </content:encoded>
+      </description>
+      <enclosure
+        length="184028"
+        type="audio/mpeg"
+        url="https://www.anonymousanimals.page/podcast/test.mp3"
+      />
+      <guid>aae20190418</guid>
+      <pubDate>Sun, 17 May 2020 023:56:00 GMT</pubDate>
+      <itunes:duration>7</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
