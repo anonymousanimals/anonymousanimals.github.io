@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anonymous Animals</title>
-    <link>https://www.apple.com/itunes/podcasts/</link>
+    <link>https://www.anonymousanimals.page</link>
     <language>en-us</language>
     <copyright>&#169; 2020 Anonymous Animals</copyright>
     <itunes:author>Anonymous Animals</itunes:author>
@@ -25,6 +25,7 @@
     <item>
       <itunes:episodeType>trailer</itunes:episodeType>
       <itunes:title>An audio file into the void </itunes:title>
+      <title> An audio file into the void </title>
       <description>
           testing out this podcast hosting thing
       </description>
@@ -37,6 +38,7 @@
       <pubDate>Sun, 17 May 2020 023:56:00 GMT</pubDate>
       <itunes:duration>7</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
+      <link>https://www.anonymousanimals.page/podcast/test.mp3</link>
     </item>
 
   </channel>
