@@ -101,9 +101,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 1.85em;
   letter-spacing: 0.22em;
-  margin: 0 0 0.525em 0; }
-  h1.name {
-    text-transform: uppercase; }
+  margin: 0 0 0.525em 0;
+  align-content: start;}
 
 h2 {
   font-size: 1.5em; }
@@ -486,8 +485,8 @@ button,
 /* Main */
 #main {
   position: relative;
-  max-width: 60%;
-  min-width: 27em;
+  max-width: 80%;
+  min-width: 40%;
   padding: 4.5em 3em 3em 3em ;
   background: #ffffff;
   border-radius: 4px;
@@ -505,7 +504,9 @@ button,
   -moz-transition: opacity 1s ease, -moz-transform 1s ease;
   -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
   -ms-transition: opacity 1s ease, -ms-transform 1s ease;
-  transition: opacity 1s ease, transform 1s ease; }
+  transition: opacity 1s ease, transform 1s ease;
+  align-self: start;}
+  align-s
   #main .avatar {
     position: relative;
     display: block;
